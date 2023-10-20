@@ -37,7 +37,7 @@
 <p dir="auto"><a name="user-content-팀원-소개"></a></p>
  <table>
     <tbody><tr>
-      <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/jnaacode/k-hotel/assets/130814431/d6dfab8f-ee15-4953-9aec-a84467161f25.png"><img width="155px" src="https://github.com/jnaacode/k-hotel/assets/130814431/d6dfab8f-ee15-4953-9aec-a84467161f25.png" style="max-width: 100%;"></a></td>
+      <td><a target="_blank" rel="noopener noreferrer" href=https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbeu5bX%2FbtsyU9IG8HT%2FGV9uqpgHoX449qNwwrm9d0%2Fimg.png"><img width="155px" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbeu5bX%2FbtsyU9IG8HT%2FGV9uqpgHoX449qNwwrm9d0%2Fimg.png" style="max-width: 100%;"></a></td>
       <td><a target="_blank" rel="noopener noreferrer" href=".png"><img width="150px" src=".png" style="max-width: 100%;"></a></td>
       <td><a target="_blank" rel="noopener noreferrer" href=".png"><img width="170px" src=".png" style="max-width: 100%;"></a></td>
       <td><a target="_blank" rel="noopener noreferrer" href=""><img width="180px" src=".png" style="max-width: 100%;"></a></td>

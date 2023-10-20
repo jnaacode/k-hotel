@@ -37,17 +37,12 @@
 <p dir="auto"><a name="user-content-팀원-소개"></a></p>
  <table>
     <tbody><tr>
-      <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/jnaacode/k-hotel/assets/130814431/efdab941-69f9-4af3-bcc7-b30b7f1307d3.png
-"><img width="155px" src="https://github.com/jnaacode/k-hotel/assets/130814431/efdab941-69f9-4af3-bcc7-b30b7f1307d3.png" style="max-width: 100%;"></a></td>
-      <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/jnaacode/k-hotel/assets/130814431/89b03599-baf5-4509-a5cd-e4215242b177
-"><img width="150px" src="https://github.com/jnaacode/k-hotel/assets/130814431/89b03599-baf5-4509-a5cd-e4215242b177.png" style="max-width: 100%;"></a></td>
-      <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/jnaacode/k-hotel/assets/130814431/e06c2e92-7d10-4dd6-a161-58ac3c0ef898.png
-"><img width="170px" src="https://user-images.githubusercontent.com/137850782/274585313-bd209712-dcf6-4d82-88a2-f708808df44b.png" style="max-width: 100%;"></a></td>
-      <td><a target="_blank" rel="noopener noreferrer" href=""><img width="180px" src="https://github.com/jnaacode/k-hotel/assets/130814431/0e16c714-a408-40e5-915b-27f208f61df7.
-png" style="max-width: 100%;"></a></td>
-      <td><a target="_blank" rel="noopener noreferrer" href=""><img width="150px" src="https://github.com/jnaacode/k-hotel/assets/130814431/41cf0beb-a3b0-4708-a511-f4076f2d8e35.png" style="max-width: 100%;"></a></td>
-      <td><a target="_blank" rel="noopener noreferrer" href=""><img width="150px" src="https://github.com/jnaacode/k-hotel/assets/130814431/9954a5f0-141f-4cee-9e98-f04577a75756
-.png" style="max-width: 100%;"></a></td>
+      <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/jnaacode/k-hotel/assets/130814431/d6dfab8f-ee15-4953-9aec-a84467161f25.png"><img width="155px" src="https://github.com/jnaacode/k-hotel/assets/130814431/d6dfab8f-ee15-4953-9aec-a84467161f25.png" style="max-width: 100%;"></a></td>
+      <td><a target="_blank" rel="noopener noreferrer" href=".png"><img width="150px" src=".png" style="max-width: 100%;"></a></td>
+      <td><a target="_blank" rel="noopener noreferrer" href=".png"><img width="170px" src=".png" style="max-width: 100%;"></a></td>
+      <td><a target="_blank" rel="noopener noreferrer" href=""><img width="180px" src=".png" style="max-width: 100%;"></a></td>
+      <td><a target="_blank" rel="noopener noreferrer" href=""><img width="150px" src=".png" style="max-width: 100%;"></a></td>
+      <td><a target="_blank" rel="noopener noreferrer" href=""><img width="150px" src=".png" style="max-width: 100%;"></a></td>
     </tr>
     <tr>
       <th>정호진 (조장) <a href="https://github.com/hojin1111"><br><img src="https://camo.githubusercontent.com/5148c757ec30584083d0dc8c25ee75363e4bc37a55889b989e864549f6b08132/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d3138313731373f7374796c653d666c6174266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/github-181717?style=flat&amp;logo=github&amp;logoColor=white" style="max-width: 100%;"></a></th>

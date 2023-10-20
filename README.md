@@ -53,9 +53,11 @@
        <th>한준수 (막내)<a href="https://github.com/junsu2134"><br><img src="https://camo.githubusercontent.com/5148c757ec30584083d0dc8c25ee75363e4bc37a55889b989e864549f6b08132/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d3138313731373f7374796c653d666c6174266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/github-181717?style=flat&amp;logo=github&amp;logoColor=white" style="max-width: 100%;"></a></th>
     </tr>
   </tbody></table>
+  <br><br><br>
+
 
  <h2 align="center"> 📅 개발 기간 </h2>
- <p align="center"> 2023.08 ~ 2023.10 <br><br><br></p>
+ <p align="center"> 22023.06 ~ 2023.08 <br><br><br></p>
 
   <h2 align="center"> 📚 개발 환경 </h2>
  <div align=center> 
@@ -80,10 +82,10 @@
 
 <h2 align="center"> 🔎 주요 기능 </h2>
 <p align="center">
-• 채팅으로 소통하기 💻<br>
-• 다양한 정보 공유하기 💬 <br>
-• 내 주변에 사는 사람들과 스터디하기 📑<br>
-• 새로운 기술 학습하기 위해 강의 듣기 👩‍🏫 <br>
+• 호텔 정보 소개 및 북마크 🤍<br>
+• 예약자들과 진짜 실 사용 리뷰 공유 💬 <br>
+• 내가 원하는 방 예약하기 📌<br>
+• 사용자들 위한 이벤트 진행 ✨ <br>
 </p>
 
 </div>

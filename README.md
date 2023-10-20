@@ -39,9 +39,9 @@
     <tbody><tr>
       <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/jnaacode/k-hotel/assets/130814431/efdab941-69f9-4af3-bcc7-b30b7f1307d3
 "><img width="155px" src="https://github.com/jnaacode/k-hotel/assets/130814431/efdab941-69f9-4af3-bcc7-b30b7f1307d3" style="max-width: 100%;"></a></td>
-      <td><a target="_blank" rel="noopener noreferrer" href="![KakaoTalk_20231020_224203021](https://github.com/jnaacode/k-hotel/assets/130814431/89b03599-baf5-4509-a5cd-e4215242b177)
+      <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/jnaacode/k-hotel/assets/130814431/89b03599-baf5-4509-a5cd-e4215242b177
 "><img width="150px" src="https://github.com/jnaacode/k-hotel/assets/130814431/89b03599-baf5-4509-a5cd-e4215242b177.png" style="max-width: 100%;"></a></td>
-      <td><a target="_blank" rel="noopener noreferrer" href="![KakaoTalk_20231020_224216213](https://github.com/jnaacode/k-hotel/assets/130814431/e06c2e92-7d10-4dd6-a161-58ac3c0ef898)
+      <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/jnaacode/k-hotel/assets/130814431/e06c2e92-7d10-4dd6-a161-58ac3c0ef898.png
 "><img width="170px" src="https://user-images.githubusercontent.com/137850782/274585313-bd209712-dcf6-4d82-88a2-f708808df44b.png" style="max-width: 100%;"></a></td>
       <td><a target="_blank" rel="noopener noreferrer" href=""><img width="180px" src="https://github.com/jnaacode/k-hotel/assets/130814431/0e16c714-a408-40e5-915b-27f208f61df7.
 png" style="max-width: 100%;"></a></td>

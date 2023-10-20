@@ -39,7 +39,7 @@
  <table>
     <tbody><tr>
       <td><a target="_blank" rel="noopener noreferrer" href="![KakaoTalk_20231020_224256346](https://github.com/jnaacode/k-hotel/assets/130814431/efdab941-69f9-4af3-bcc7-b30b7f1307d3)
-"><img width="155px" src="https://user-images.githubusercontent.com/137850782/274519579-cf538225-88bf-4ff0-97ee-20535f91308e.png" style="max-width: 100%;"></a></td>
+"><img width="155px" src="![KakaoTalk_20231020_224256346](https://github.com/jnaacode/k-hotel/assets/130814431/efdab941-69f9-4af3-bcc7-b30b7f1307d3)" style="max-width: 100%;"></a></td>
       <td><a target="_blank" rel="noopener noreferrer" href="![KakaoTalk_20231020_224203021](https://github.com/jnaacode/k-hotel/assets/130814431/89b03599-baf5-4509-a5cd-e4215242b177)
 "><img width="150px" src="https://user-images.githubusercontent.com/137850782/274515950-8442f023-7dc3-4337-9438-795997461b7c.png" style="max-width: 100%;"></a></td>
       <td><a target="_blank" rel="noopener noreferrer" href="![KakaoTalk_20231020_224216213](https://github.com/jnaacode/k-hotel/assets/130814431/e06c2e92-7d10-4dd6-a161-58ac3c0ef898)

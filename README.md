@@ -38,13 +38,12 @@
 <p dir="auto"><a name="user-content-팀원-소개"></a></p>
  <table>
     <tbody><tr>
-      <td><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/137850782/274519579-cf538225-88bf-4ff0-97ee-20535f91308e.png"><img width="155px" src="" style="max-width: 100%;"></a></td>
+      <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/jnaacode/k-hotel/assets/130814431/3faa3598-76b4-4d2a-9879-bf366f46d7b4"><img width="155px" src="" style="max-width: 100%;"></a></td>
       <td><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/137850782/274515950-8442f023-7dc3-4337-9438-795997461b7c.png"><img width="150px" src="" style="max-width: 100%;"></a></td>
       <td><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/137850782/274585313-bd209712-dcf6-4d82-88a2-f708808df44b.png"><img width="170px" src="" style="max-width: 100%;"></a></td>
       <td><a target="_blank" rel="noopener noreferrer" href=""><img width="180px" src="https://user-images.githubusercontent.com/137850782/274585131-f4df29eb-926a-4abd-a492-a7189c33759c.png" style="max-width: 100%;"></a></td>
-      <td><a target="_blank" rel="noopener noreferrer" href=""><img width="150px" src="https://github.com/jnaacode/k-hotel/assets/130814431/65509cf7-de60-42d1-99bd-eb2a2c78bee0
-" style="max-width: 100%;"></a></td>
-      <td><a target="_blank" rel="noopener noreferrer" href=""><img width="150px" src="https://user-images.githubusercontent.com/137850782/274519329-e0aba318-ee64-4e41-807c-9d40afd90767.png" style="max-width: 100%;"></a></td>
+      <td><a target="_blank" rel="noopener noreferrer" href=""><img width="150px" src="" style="max-width: 100%;"></a></td>
+      <td><a target="_blank" rel="noopener noreferrer" href=""><img width="150px" src="" style="max-width: 100%;"></a></td>
     </tr>
     <tr>
       <th>정호진 (조장) <a href="https://github.com/complete0415Jiyoung"><br><img src="https://camo.githubusercontent.com/5148c757ec30584083d0dc8c25ee75363e4bc37a55889b989e864549f6b08132/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d3138313731373f7374796c653d666c6174266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/github-181717?style=flat&amp;logo=github&amp;logoColor=white" style="max-width: 100%;"></a></th>

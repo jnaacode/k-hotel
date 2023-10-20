@@ -37,16 +37,11 @@
 <p dir="auto"><a name="user-content-팀원-소개"></a></p>
  <table>
     <tbody><tr>
-      <td><a target="_blank" rel="noopener noreferrer" href=https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbeu5bX%2FbtsyU9IG8HT%2FGV9uqpgHoX449qNwwrm9d0%2Fimg.png"><img width="155px" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbeu5bX%2FbtsyU9IG8HT%2FGV9uqpgHoX449qNwwrm9d0%2Fimg.png" style="max-width: 100%;"></a></td>
-                
-      <td><a target="_blank" rel="noopener noreferrer" href="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F8mOOX%2FbtsyTsicwt4%2Fxo8dODVUG1RcfMlmIydOkk%2Fimg.png"><img width="150px" src=".png" style="max-width: 100%;"></a></td>
-      
-      <td><a target="_blank" rel="noopener noreferrer" href="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbEzqNC%2FbtsyUNslFwE%2FpaHfh9KY9cZVYbC0QbdqYK%2Fimg.png"><img width="170px" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbEzqNC%2FbtsyUNslFwE%2FpaHfh9KY9cZVYbC0QbdqYK%2Fimg.png" style="max-width: 100%;"></a></td>
-      
+      <td><a target="_blank" rel="noopener noreferrer" href=https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbeu5bX%2FbtsyU9IG8HT%2FGV9uqpgHoX449qNwwrm9d0%2Fimg.png"><img width="155px" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbeu5bX%2FbtsyU9IG8HT%2FGV9uqpgHoX449qNwwrm9d0%2Fimg.png" style="max-width: 100%;"></a></td>                
+      <td><a target="_blank" rel="noopener noreferrer" href="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F8mOOX%2FbtsyTsicwt4%2Fxo8dODVUG1RcfMlmIydOkk%2Fimg.png"><img width="150px" src=".png" style="max-width: 100%;"></a></td>     
+      <td><a target="_blank" rel="noopener noreferrer" href="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbEzqNC%2FbtsyUNslFwE%2FpaHfh9KY9cZVYbC0QbdqYK%2Fimg.png"><img width="170px" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbEzqNC%2FbtsyUNslFwE%2FpaHfh9KY9cZVYbC0QbdqYK%2Fimg.png" style="max-width: 100%;"></a></td>      
       <td><a target="_blank" rel="noopener noreferrer" href="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbEzqNC%2FbtsyUNslFwE%2FpaHfh9KY9cZVYbC0QbdqYK%2Fimg.png"><img width="180px" src="" style="max-width: 100%;"></a></td>
-      
       <td><a target="_blank" rel="noopener noreferrer" href="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FOzxmK%2FbtsyR67Euat%2FmppEQztXfcmql6ODEV6evK%2Fimg.png"><img width="150px" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FOzxmK%2FbtsyR67Euat%2FmppEQztXfcmql6ODEV6evK%2Fimg.png" style="max-width: 100%;"></a></td>
-      
       <td><a target="_blank" rel="noopener noreferrer" href="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fc9wTGY%2FbtsyUNy8u1A%2F2247mughyIO0ch6ZLaHuXk%2Fimg.png"><img width="150px" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fc9wTGY%2FbtsyUNy8u1A%2F2247mughyIO0ch6ZLaHuXk%2Fimg.png" style="max-width: 100%;"></a></td>
     </tr>
     <tr>

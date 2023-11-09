@@ -57,7 +57,7 @@
 
 
  <h2 align="center"> 📅 개발 기간 </h2>
- <p align="center"> 22023.06 ~ 2023.08 <br><br><br></p>
+ <p align="center"> 2023.06 ~ 2023.08 <br><br><br></p>
 
   <h2 align="center"> 📚 개발 환경 </h2>
  <div align=center> 
